@@ -1,6 +1,6 @@
-# Module 02 - Network Basics
+# Module 02 : Network Basics
 
-This module is a refresher on core networking before moving into firewall-specific material: the OSI and TCP/IP reference models, common network devices, and a course lab covering every way you can log into a Huawei firewall.
+This module is a refresher on core networking before moving into firewall specific material: the OSI and TCP/IP reference models, common network devices, and a course lab covering every way you can log into a Huawei firewall.
 
 ## Topics Covered
 - OSI Reference Model and TCP/IP Reference Model
