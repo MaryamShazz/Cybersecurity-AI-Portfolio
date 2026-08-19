@@ -12,10 +12,10 @@
 
 ## Stateful Inspection
 - Session table built on first permitted packet of a new connection
-- Return traffic matched against session table, not re-evaluated against policy from scratch
+- Return traffic matched against session table, not reevaluated against policy from scratch
 
 ## ASPF
-- Watches control-channel traffic for protocols that negotiate dynamic ports (e.g. active FTP)
+- Watches control channel traffic for protocols that negotiate dynamic ports (e.g. active FTP)
 - Temporarily opens the required port based on what it observes
 
 ## Quick CLI Reference
