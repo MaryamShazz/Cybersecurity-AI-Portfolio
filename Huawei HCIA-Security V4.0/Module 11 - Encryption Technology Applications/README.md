@@ -1,4 +1,4 @@
-# Module 11 - Encryption Technology Applications
+# Module 11 : Encryption Technology Applications
 
 The final content module, where cryptography (Module 09) and PKI (Module 10) get applied to actual VPN technologies: GRE, IPSec, L2TP, and SSL VPN.
 
