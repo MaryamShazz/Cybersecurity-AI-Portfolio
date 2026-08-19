@@ -1,7 +1,5 @@
 # Course Lab / Practical Exercise: Firewall Hot Standby
 
-This is the built-in lab from Module 06, covering hot standby configuration across two firewalls, through both the CLI and the Web UI. Documented as a summary of what the exercise covers.
-
 ## What the Lab Covers
 
 **CLI**
@@ -17,4 +15,4 @@ This is the built-in lab from Module 06, covering hot standby configuration acro
 
 ## Key Takeaway from the Module
 
-The failover test is the point of the exercise: a ping barely pausing (instead of dropping outright) when the active firewall goes down demonstrates why the heartbeat link between the two firewalls isn't optional — it's what keeps the standby actually usable rather than just present.
+The failover test is the point of the exercise: a ping barely pausing (instead of dropping outright) when the active firewall goes down demonstrates why the heartbeat link between the two firewalls isn't optional, it's what keeps the standby actually usable rather than just present.
