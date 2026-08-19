@@ -4,7 +4,7 @@ The following resources were used alongside the official Huawei HCIA-Security V4
 
 ## Official Course Resources
 
-* **Huawei Talent Online** — HCIA-Security V4.0 training platform
+* **Huawei Talent Online** : HCIA-Security V4.0 training platform
 * **Huawei ICT Academy** course materials and module assessments
 
 ## Huawei Documentation
@@ -14,7 +14,7 @@ The following resources were used alongside the official Huawei HCIA-Security V4
 
 ## Standards & Security References
 
-* **ISO/IEC 27001** — Information Security Management Systems (ISMS)
+* **ISO/IEC 27001** : Information Security Management Systems (ISMS)
 * General cybersecurity and enterprise network security references used throughout the course
 
 ## Networking References
