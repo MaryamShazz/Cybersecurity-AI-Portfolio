@@ -1,4 +1,4 @@
-# Module 01 - Network Security Concepts and Specifications
+# Module 01 : Network Security Concepts and Specifications
 
 This module is the groundwork for the rest of the course: what network security means, how the threat landscape has evolved, where things seem to be heading, and the standards/specifications organizations are expected to follow.
 
