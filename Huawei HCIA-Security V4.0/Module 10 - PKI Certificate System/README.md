@@ -1,4 +1,4 @@
-# Module 10 - PKI Certificate System
+# Module 10 : PKI Certificate System
 
 This module builds on the encryption fundamentals from Module 09 and applies them to establishing trust: how PKI is structured and how it verifies that a public key belongs to who it claims to belong to.
 
