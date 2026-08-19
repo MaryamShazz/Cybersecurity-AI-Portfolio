@@ -5,7 +5,7 @@
 | Source NAT | Source address of outbound traffic | Internal users reaching the internet |
 | Destination NAT | Destination address of inbound traffic | Publishing an internal server |
 | Bidirectional NAT | Both source and destination | Overlapping address spaces between two networks |
-| NAT Server | Persistent destination NAT mapping | Long-term server publishing |
+| NAT Server | Persistent destination NAT mapping | Long term server publishing |
 | NAT ALG | Embedded IP/port data inside application payloads | Protocols like FTP that break under plain NAT |
 
 ## Reminder
