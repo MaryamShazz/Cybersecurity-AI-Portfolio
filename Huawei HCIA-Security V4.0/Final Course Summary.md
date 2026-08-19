@@ -18,7 +18,7 @@ Learning how **VRRP**, **HRP**, and **VGMP** work together to provide firewall r
 
 ### 🔐 VPN Technologies
 
-The comparison between **IPSec VPN** and **SSL VPN** was another highlight. Understanding the differences between site-to-site and remote-access VPNs—and the trade-offs between security, configuration complexity, and deployment scenarios—provided useful context for secure network design.
+The comparison between **IPSec VPN** and **SSL VPN** was another highlight. Understanding the differences between site to site and remote access VPNs and the trade offs between security, configuration complexity, and deployment scenarios—provided useful context for secure network design.
 
 ### 🛡️ Enterprise Firewall Security
 
