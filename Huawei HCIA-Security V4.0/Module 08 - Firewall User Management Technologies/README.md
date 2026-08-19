@@ -1,6 +1,6 @@
-# Module 08 - Firewall User Management Technologies
+# Module 08 : Firewall User Management Technologies
 
-This module covers AAA (Authentication, Authorization, Accounting) and how the firewall handles user identity — from organizing users into groups to the authentication workflow and policy configuration.
+This module covers AAA (Authentication, Authorization, Accounting) and how the firewall handles user identity, from organizing users into groups to the authentication workflow and policy configuration.
 
 ## Topics Covered
 - AAA principles
