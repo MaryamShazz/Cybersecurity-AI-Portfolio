@@ -1,4 +1,4 @@
-# Module 05 - Firewall NAT Technologies
+# Module 05 : Firewall NAT Technologies
 
 This module covers Network Address Translation on the Huawei firewall: why it exists, the different types, and how it interacts with services that need more than a basic address swap.
 
