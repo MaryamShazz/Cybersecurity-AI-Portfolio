@@ -1,10 +1,10 @@
 # PKI Cheat Sheet
 
 ## Core Roles
-- **CA (Certificate Authority)** — issues and signs certificates
-- **RA (Registration Authority)** — verifies identity before a certificate is issued
-- **Certificate Repository** — stores/publishes issued certificates and revocation info
-- **End entity** — the user/device/server holding the certificate
+- **CA (Certificate Authority)** : issues and signs certificates
+- **RA (Registration Authority)** : verifies identity before a certificate is issued
+- **Certificate Repository** : stores/publishes issued certificates and revocation info
+- **End entity** : the user/device/server holding the certificate
 
 ## Basic Flow
 1. Entity generates a key pair
@@ -14,8 +14,8 @@
 
 ## Revocation
 - Certificates can become invalid before expiry (compromise, etc.)
-- **CRL (Certificate Revocation List)** — published by the CA to flag certificates that should no longer be trusted
+- **CRL (Certificate Revocation List)** : published by the CA to flag certificates that should no longer be trusted
 
 ## Why It Matters for VPNs
-- IKE (used by IPSec) can authenticate using certificates instead of a pre-shared key
-- Certificate-based auth scales better than pre-shared keys once you're past a handful of VPN peers
+- IKE (used by IPSec) can authenticate using certificates instead of a preshared key
+- Certificate based auth scales better than pre-shared keys once you're past a handful of VPN peers
