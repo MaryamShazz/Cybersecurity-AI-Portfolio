@@ -1,6 +1,6 @@
-# Module 07 - Firewall IPS
+# Module 07 : Firewall IPS
 
-This module covers intrusion prevention and antivirus at the firewall level — inspecting what's actually inside traffic, rather than just deciding allow/deny by zone and port.
+This module covers intrusion prevention and antivirus at the firewall level, inspecting what's actually inside traffic, rather than just deciding allow/deny by zone and port.
 
 ## Topics Covered
 - Intrusion overview
