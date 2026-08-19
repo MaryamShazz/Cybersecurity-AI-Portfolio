@@ -9,5 +9,5 @@ By the end, I wanted to be able to:
 - Understand how Huawei USG firewall security policies, NAT, and hot standby are configured, from both the CLI and the Web UI.
 - Understand intrusion prevention and antivirus at the firewall level, not just as buzzwords.
 - Get comfortable with the cryptography fundamentals: symmetric/asymmetric encryption, hashing, and how PKI works underneath a certificate.
-- Understand how IPSec and SSL VPNs are configured for site-to-site and remote access scenarios.
-- Be able to reason about how a small-to-medium enterprise network gets designed and secured end to end.
+- Understand how IPSec and SSL VPNs are configured for site to site and remote access scenarios.
+- Be able to reason about how a small to medium enterprise network gets designed and secured end to end.
