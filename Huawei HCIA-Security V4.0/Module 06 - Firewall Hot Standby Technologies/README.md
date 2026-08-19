@@ -1,4 +1,4 @@
-# Module 06 - Firewall Hot Standby Technologies
+# Module 06 : Firewall Hot Standby Technologies
 
 This module covers keeping a firewall deployment available if one device fails: VRRP, VGMP, HRP, and how they combine into Huawei's firewall hot standby model.
 
