@@ -27,7 +27,7 @@ The course introduces the fundamentals of enterprise network security and Huawei
 
 I completed the course by working through each module, watching the training videos, completing the assessments, and documenting my learning as I progressed. Where the course included practical exercises, they are documented in this repository as **course labs** and are clearly distinguished from independent projects.
 
-I began the course in **December 2025**, paused after completing most of the material to focus on several personal cybersecurity projects, and returned later to finish the remaining modules. The course was completed on **August 5, 2026**.
+I began the course in **December 2025**, paused after completing most of the material to focus on several personal projects as well as university projects, and returned later to finish the remaining modules. The course was completed on **August 5, 2026**.
 
 > **Note**
 >
@@ -54,7 +54,7 @@ I began the course in **December 2025**, paused after completing most of the mat
 
 My objective in taking this course was to build a strong foundation in enterprise network security while becoming familiar with Huawei's security technologies. Since Huawei networking equipment is widely deployed across many organizations in my region, I wanted to understand how enterprise networks are designed, secured, and managed using Huawei firewalls and related technologies.
 
-By the end of the course, I aimed to understand the principles behind firewall deployment, network segmentation, authentication, cryptography, PKI, VPN technologies, and high availability, providing a solid foundation for future cybersecurity study and hands-on projects.
+By the end of the course, I aimed to understand the principles behind firewall deployment, network segmentation, authentication, cryptography, PKI, VPN technologies, and high availability, providing a solid foundation for future cybersecurity study and hands on projects.
 
 ---
 
@@ -74,7 +74,7 @@ By the end of the course, I aimed to understand the principles behind firewall d
 * Security zones
 * Security policies
 * Stateful inspection
-* Application-Specific Packet Filtering (ASPF)
+* Application Specific Packet Filtering (ASPF)
 
 ### 🔀 Network Address Translation (NAT)
 
@@ -149,7 +149,7 @@ The course labs include:
 * Firewall hot standby configuration
 * Intrusion Prevention System (IPS) configuration
 * AAA and user management
-* Site-to-site IPSec VPN
+* Site to site IPSec VPN
 * SSL VPN
 
 ---
@@ -157,12 +157,12 @@ The course labs include:
 # 🎓 Key Learning Outcomes
 
 * Built a solid understanding of enterprise network security architecture and layered defense.
-* Learned how Huawei firewalls are deployed and managed using both the command-line interface and Web UI.
+* Learned how Huawei firewalls are deployed and managed using both the command line interface and Web UI.
 * Understood how security policies, security zones, and stateful inspection work together to control network traffic.
 * Developed foundational knowledge of enterprise NAT technologies and their practical use cases.
 * Learned how VRRP, HRP, and VGMP provide firewall redundancy and high availability.
 * Studied IPS and antivirus technologies as part of enterprise threat prevention.
-* Gained an understanding of AAA-based authentication and user management.
+* Gained an understanding of AAA based authentication and user management.
 * Built a foundation in cryptography, PKI, and VPN technologies for secure communication.
 
 ---
