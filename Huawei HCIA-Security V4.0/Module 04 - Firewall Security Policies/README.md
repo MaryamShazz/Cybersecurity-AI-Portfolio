@@ -1,4 +1,4 @@
-# Module 04 - Firewall Security Policies
+# Module 04 : Firewall Security Policies
 
 This module gets into the mechanics of a Huawei firewall: security zones, how a security policy is structured and matched, stateful inspection, session mechanisms, and ASPF for protocols that need dynamic port handling.
 
